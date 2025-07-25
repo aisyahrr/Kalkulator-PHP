@@ -23,4 +23,4 @@ Proyek ini adalah kalkulator sederhana berbasis web menggunakan **PHP** dan **HT
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/aisyahrr/kalkulator-php.git
+git clone https://github.com/aisyahrr/Kalkulator-php.git
